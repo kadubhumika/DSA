@@ -12,7 +12,7 @@ Python
 
 C
 
-You'll find well-structured code with comments to help beginners understand the logic.![Screenshot (204)](https://github.com/user-attachments/assets/40d11a70-6b92-4c12-a8e5-30c8232f2004)
+You'll find well-structured code with comments to help beginners understand the logic.
 
 
 What you’ll find here
