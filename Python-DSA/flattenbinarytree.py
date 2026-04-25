@@ -1,3 +1,7 @@
+from idlelib.tree import TreeNode
+from typing import Optional
+
+
 class Solution:
     def flatten(self, root: Optional[TreeNode]) -> None:
         result = []
